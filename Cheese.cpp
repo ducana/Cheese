@@ -16,7 +16,7 @@
 /D "_UNICODE" 
 /D "UNICODE" 
 /FD 
-/EHsc /EHsc /EHsc
+/EHsc Mouse2Maus
 /MD 
 /Zc:forScope- 
 /Fo".\Release\\" 
