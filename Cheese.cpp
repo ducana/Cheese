@@ -5,6 +5,7 @@ const unsigned int max = 4294967295U;
 
 main ()
 {
+  // Use as an index.
   unsigned int s;
   string a ("Cheese.txt");
   s = a.rfind (".");
